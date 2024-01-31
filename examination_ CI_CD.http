@@ -1,0 +1,6 @@
+@examination__CI_CD_HostAddress = http://localhost:5298
+
+GET {{examination__CI_CD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
